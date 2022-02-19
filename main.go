@@ -25,6 +25,9 @@ func main() {
 
 	router := gin.Default()
 
+	router.GET("/", func(c *gin.Context) {
+		c.String(200, "hehe")
+	})
 	router.GET("/books/:id", func(c *gin.Context) {
 		c.JSON(200, book)
 	})
