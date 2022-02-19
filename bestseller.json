@@ -1,0 +1,42 @@
+[
+  {
+    "id": 123123,
+    "category_id": 11,
+    "title": "The Intelligent Investor : The Definitive Book on Value Investing",
+    "image_url": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0605/9780060555665.jpg",
+    "author": "Benjamin Graham",
+    "price": 390261
+  },
+  {
+    "id": 123234,
+    "category_id": 11,
+    "title": "Principles : Life and Work",
+    "image_url": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5011/9781501124020.jpg",
+    "author": "Ray Dalio",
+    "price": 450931
+  },
+  {
+    "id": 123345,
+    "category_id": 11,
+    "title": "Scaling Up : How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0)",
+    "image_url": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/9860/9780986019593.jpg",
+    "author": "Verne Harnish",
+    "price": 420885
+  },
+  {
+    "id": 123456,
+    "category_id": 11,
+    "title": "The Richest Man In Babylon",
+    "image_url": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3074/9780307463746.jpg",
+    "author": "George S Clason",
+    "price": 150146
+  },
+  {
+    "id": 123567,
+    "category_id": 11,
+    "title": "Think Again : The Power of Knowing What You Don't Know",
+    "image_url": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/7535/9780753553893.jpg",
+    "author": "Adam Grant",
+    "price": 298216
+  }
+]

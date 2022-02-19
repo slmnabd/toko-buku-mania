@@ -1,0 +1,33 @@
+{
+  "id": 38472389,
+  "product_id": 123123,
+  "qty": 152581,
+  "rating": 3.96,
+  "details": [
+    {
+      "rating": 5,
+      "qty": 60748,
+      "percentage": "40%"
+    },
+    {
+      "rating": 4,
+      "qty": 47171,
+      "percentage": "31%"
+    },
+    {
+      "rating": 3,
+      "qty": 28967,
+      "percentage": "19%"
+    },
+    {
+      "rating": 2,
+      "qty": 9549,
+      "percentage": "6%"
+    },
+    {
+      "rating": 1,
+      "qty": 6146,
+      "percentage": "4%"
+    }
+  ]
+}
